@@ -1,8 +1,5 @@
 ### Hi there 👋 I'm Graeme, a Junior Software Developer and Makers Academy graduate.
 
-<!--
-**ghpaterson/ghpaterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 I’m currently working on Mister Bloggy, a blog I created to share music, food and design inspiration with my friends.
 - 🌱 I’m currently learning Next.js framework.
