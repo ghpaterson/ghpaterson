@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Graeme, a Junior Software Developer and Makers Academy graduate.
 
 
-- 🔭 I’m currently working on Mister Bloggy, a blog I created to share music, food and design inspiration with my friends.
+- 🔭 I’m currently working on a Literacy App designed to help young children read
 - 🌱 I’m currently learning Next.js framework.
 - 👯 I’m looking to collaborate on any Javascript open source projects.
 - 🤔 I’m looking for help with fun projects to help me learn Typescript.
